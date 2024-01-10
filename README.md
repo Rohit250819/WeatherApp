@@ -4,7 +4,7 @@ Enter the name of the city or location for which you want to check the weather.<
 Click the "Search" button.<br>
 View the current weather conditions for the specified location.<br>
 **Live Demo**<br>
-Check out the live demo [here]([https](https://weather-app-nu-blue.vercel.app/)).<br>
+Check out the live demo [here](https://weather-app-nu-blue.vercel.app/).<br>
 
 **Technologies Used**<br>
 HTML<br>
